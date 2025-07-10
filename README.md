@@ -1,5 +1,5 @@
 <div align="center">
-  <img src ="b720-banner.svg" />
+  <img src ="banner-b720.svg" />
 </div>
 
 - - - - - - - - - 
